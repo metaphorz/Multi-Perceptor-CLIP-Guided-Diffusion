@@ -1,5 +1,5 @@
 # Multi-Perceptor-CLIP-Guided-Diffusion
-Minor fork of Peter Baylies Google Colab
+Minor fork of Peter Baylies @pbaylies Google Colab
 The main changes from the original:
 1. Start mounting Google Drive (GD)
 2. Create a directory tree there to hold everything (GD/MP_CLIP_GD_Baylies).
